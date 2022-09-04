@@ -1,7 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif" width="30%"/> <br>
+  
+  ###### Skills
+  
   <p>
-    numpy, pandas, tensorflow PIL, keras, sklearn, seaborn, pygame, opencv, pickle, matplotlib
+    pandas, numpy, sklearn, seaborn, matplotlib, pygame, tkinter, pickle, Pillow, tensorflow, keras, requests, json, youtube_dl, opencv, scipy,
+    pyautogui, pydirectinput, selenium, beautiful soup
+    RIOT api, Steam api, TooGoodToGo api
+    R, MySQL, Cpp, Scala
   </p>
   
   ###### Stats
