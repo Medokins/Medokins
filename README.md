@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif" width="30%"/> <br>
   <p>
-
+    numpy, pandas, tensorflow PIL, keras, sklearn, seaborn, pygame, opencv, pickle, matplotlib
   </p>
   
   ###### Stats
