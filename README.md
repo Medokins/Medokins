@@ -4,8 +4,27 @@
   ###### Skills
   
   <p>
-    pandas, numpy, sklearn, seaborn, matplotlib, pygame, tkinter, pickle, Pillow, tensorflow, keras, requests, json, youtube_dl, opencv, scipy,
-    pyautogui, pydirectinput, selenium, beautiful soup
+    <img src="https://img.shields.io/badge/-pandas-1b2638?style=flat-square&logo=pandas&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-numpy-1b2638?style=flat-square&logo=numpy&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-scikitlearn-1b2638?style=flat-square&logo=scikitlearn&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-seaborn-1b2638?style=flat-square&logo=seaborn&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-matplotlib-1b2638?style=flat-square&logo=matplotlib&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-tkinter-1b2638?style=flat-square&logo=tkinter&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-pickle-1b2638?style=flat-square&logo=pickle&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-pillow-1b2638?style=flat-square&logo=pillow&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-tensorflow-1b2638?style=flat-square&logo=tensorflow&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-keras-1b2638?style=flat-square&logo=keras&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-requests-1b2638?style=flat-square&logo=requests&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-json-1b2638?style=flat-square&logo=json&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-youtube_dl-1b2638?style=flat-square&logo=youtube_dl&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-opencv-1b2638?style=flat-square&logo=opencv&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-scipy-1b2638?style=flat-square&logo=scipy&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-pyautogui-1b2638?style=flat-square&logo=pyautogui&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-pydirectinput-1b2638?style=flat-square&logo=pydirectinput&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-selenium-1b2638?style=flat-square&logo=selenium&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-beautiful_soup-1b2638?style=flat-square&logo=beautifulsoup&logoColor=orange"/>
+
     RIOT api, Steam api, TooGoodToGo api
     R, MySQL, Cpp, Scala
   </p>
