@@ -17,15 +17,18 @@
     <img src="https://img.shields.io/badge/-keras-1b2638?style=flat-square&logo=keras&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-requests-1b2638?style=flat-square&logo=requests&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-json-1b2638?style=flat-square&logo=json&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/-youtube_dl-1b2638?style=flat-square&logo=youtube_dl&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-opencv-1b2638?style=flat-square&logo=opencv&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-scipy-1b2638?style=flat-square&logo=scipy&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-pyautogui-1b2638?style=flat-square&logo=pyautogui&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-pydirectinput-1b2638?style=flat-square&logo=pydirectinput&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-selenium-1b2638?style=flat-square&logo=selenium&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-beautiful_soup-1b2638?style=flat-square&logo=beautifulsoup&logoColor=orange"/>
-
-    RIOT api, Steam api, TooGoodToGo api
+    <img src="https://img.shields.io/badge/-github-1b2638?style=flat-square&logo=github&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-RIOT api-1b2638?style=flat-square&logo=Riot Games&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-Steam api-1b2638?style=flat-square&logo=Steam&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-TooGoodToGo api-1b2638?style=flat-square&logo=TooGoodToGo&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-youtube_dl-1b2638?style=flat-square&logo=youtube&logoColor=orange"/>
+   
     R, MySQL, Cpp, Scala
   </p>
   
