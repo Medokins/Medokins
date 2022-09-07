@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif" width="30%"/> <br>
+  <img src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif" width="40%"/> <br>
   
   ###### Skills
   
