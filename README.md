@@ -37,4 +37,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=orange" alt=""/> <br>
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medokins&theme=vision-friendly-dark&&background=000000&layout=compact"/> <br>
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Medokins&theme=dark&background=000000"/> <br>
+  
+  ###### On-going projects
+  
+  ###### Finished projects
+
+
 </div>
