@@ -38,12 +38,18 @@
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medokins&theme=vision-friendly-dark&&background=000000&layout=compact"/> <br>
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Medokins&theme=dark&background=000000"/> <br>
   
-  ###### On-going projects
+  ###### Projects
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&hide_border=false&bg_color=0C0B0B&title_color=1b2638&text_color=F59316&icon_color=F58220)](https://github.com/Medokins/Evolutionary-AI)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Evolutionary-AI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Game-Recommendation&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Game-Recommendation)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Leauge-Of-Legends-Win-Prediction-AI&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Leauge-Of-Legends-Win-Prediction-AI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=TooGoodToGo-Scraper&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/TooGoodToGo-Scraper)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Personality-Predict&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Personality-Predict)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
   
-  ###### Finished projects
+  ###### Ongoing projects
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
 
 
 </div>
