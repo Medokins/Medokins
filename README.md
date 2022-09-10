@@ -40,6 +40,9 @@
   
   ###### On-going projects
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&hide_border=false&bg_color=0C0B0B&title_color=1b2638&text_color=F59316&icon_color=F58220)](https://github.com/Medokins/Evolutionary-AI)
+
+  
   ###### Finished projects
 
 
