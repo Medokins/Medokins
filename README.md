@@ -29,8 +29,7 @@
     <img src="https://img.shields.io/badge/-TooGoodToGo api-1b2638?style=flat-square&logo=TooGoodToGo&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-youtube_dl-1b2638?style=flat-square&logo=youtube&logoColor=orange"/>
    
-    R, MySQL, Cpp, Scala
-  </p>
+   </p>
   
   ###### Stats
 
@@ -40,16 +39,16 @@
   
   ###### Projects
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Evolutionary-AI)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Game-Recommendation&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Game-Recommendation)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Leauge-Of-Legends-Win-Prediction-AI&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Leauge-Of-Legends-Win-Prediction-AI)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=TooGoodToGo-Scraper&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/TooGoodToGo-Scraper)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Personality-Predict&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/Personality-Predict)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Evolutionary-AI&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Evolutionary-AI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Game-Recommendation&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Game-Recommendation)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Leauge-Of-Legends-Win-Prediction-AI&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Leauge-Of-Legends-Win-Prediction-AI)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=TooGoodToGo-Scraper&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/TooGoodToGo-Scraper)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Personality-Predict&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Personality-Predict)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
   
-  ###### Ongoing projects
+  ###### Currently working on
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=995639&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
 
 
 </div>
