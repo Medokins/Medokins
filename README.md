@@ -6,15 +6,15 @@
   <p>
     <img src="https://img.shields.io/badge/-pandas-1b2638?style=flat-square&logo=pandas&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-numpy-1b2638?style=flat-square&logo=numpy&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-keras-1b2638?style=flat-square&logo=keras&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-scikitlearn-1b2638?style=flat-square&logo=scikitlearn&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/-seaborn-1b2638?style=flat-square&logo=seaborn&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-tensorflow-1b2638?style=flat-square&logo=tensorflow&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-matplotlib-1b2638?style=flat-square&logo=matplotlib&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-seaborn-1b2638?style=flat-square&logo=seaborn&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-tkinter-1b2638?style=flat-square&logo=tkinter&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-pickle-1b2638?style=flat-square&logo=pickle&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-pillow-1b2638?style=flat-square&logo=pillow&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/-tensorflow-1b2638?style=flat-square&logo=tensorflow&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/-keras-1b2638?style=flat-square&logo=keras&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-requests-1b2638?style=flat-square&logo=requests&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-json-1b2638?style=flat-square&logo=json&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-opencv-1b2638?style=flat-square&logo=opencv&logoColor=orange"/>
