@@ -49,6 +49,5 @@
   ###### Currently working on
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=A--Pathfinding-Algorithm&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/A--Pathfinding-Algorithm)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=TooGoodToGo-Scraper&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/TooGoodToGo-Scraper)
   
 </div>
