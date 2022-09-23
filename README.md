@@ -48,6 +48,6 @@
   
   ###### Currently working on
   
-  #### looking for ideas
+  #### personalised chat bot
   
 </div>
