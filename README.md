@@ -48,6 +48,6 @@
   
   ###### Currently working on
   
-  ###### personalised chat bot that can imitate another persons style based on previous messages.
+  ###### personalised chat bot that can imitate another persontyle based on previous messages.
   
 </div>
