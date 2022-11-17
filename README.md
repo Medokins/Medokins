@@ -48,6 +48,6 @@
   
   ###### Currently working on
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Chatter&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Chatter)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Smart-Reader&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://github.com/Medokins/Chatter)
   
 </div>
