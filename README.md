@@ -48,6 +48,6 @@
   
   ###### Currently working on
   
-  IBM Watson Auto-AI
-  
+  IBM Auto-AI (work)<br>&<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Medokins&repo=Lofi-Pixels&bg_color=0C0B0B&title_color=F58220&text_color=DBD6CB&icon_color=F58220)](https://https://github.com/Medokins/Lofi-Pixels)
 </div>
